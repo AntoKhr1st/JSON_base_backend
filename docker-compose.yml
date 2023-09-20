@@ -1,0 +1,29 @@
+version: '3'
+services:
+  nginx:
+    container_name: nginx-with-grpc
+    image: nginx:latest
+#    restart: always
+    ports:
+    - 80:80
+    - 443:443
+    volumes:
+    - ./nginx/conf.d:/etc/nginx/conf.d
+
+  fastapi:
+    build:
+      context: ./Fast_API
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./storage:/app/shared
+
+  grpc_server:
+    build:
+      context: ./gRPC_server
+    ports:
+      - "50051:50051"
+    volumes:
+      - ./storage:/app/shared
+
+
