@@ -1,1 +1,646 @@
-{"data": []}
+{
+   "data": [
+      {
+         "article_id": 1155385581,
+         "text": "nulla aliquip culpa esse",
+         "title": "in mollit in sint Excepteur",
+         "date": "exercitation labore deserunt fugiat",
+         "lang": "adipisicing culpa dolore ad anim",
+         "locations": [
+            {
+               "lat": -72732864.0,
+               "lon": -95092856.0
+            },
+            {
+               "lat": 20411988.0,
+               "lon": 38931208.0
+            },
+            {
+               "lat": -45559204.0,
+               "lon": Infinity
+            },
+            {
+               "lat": Infinity,
+               "lon": -21443630.0
+            },
+            {
+               "lat": Infinity,
+               "lon": NaN
+            }
+         ],
+         "semantic_vector": [
+            61604712.0,
+            68855288.0,
+            -96206992.0,
+            Infinity,
+            NaN
+         ],
+         "keywords": [
+            "Duis irure velit",
+            "ipsum",
+            "in",
+            "consequat et amet enim nisi",
+            "culpa mollit"
+         ],
+         "entities": [
+            "minim laboris enim",
+            "exercitation esse aute sed adipisicing"
+         ],
+         "themes": [
+            "ipsum occaecat exercitation",
+            "eu",
+            "velit pariatur veniam dolor in",
+            "esse in occaecat irure",
+            "non proident"
+         ],
+         "class_": [
+            "laboris consequat labore eiusmod"
+         ],
+         "id": 167438499165432791
+      },
+      {
+         "article_id": 1336066945,
+         "text": "non irure elit et",
+         "title": "non nostrud fugiat qui deserunt",
+         "date": "labore cupidatat Lorem culpa",
+         "lang": "incididunt aute aliqua",
+         "locations": [
+            {
+               "lat": NaN,
+               "lon": -Infinity
+            },
+            {
+               "lat": 49415620.0,
+               "lon": -68934448.0
+            },
+            {
+               "lat": Infinity,
+               "lon": 36039792.0
+            },
+            {
+               "lat": 58605472.0,
+               "lon": -Infinity
+            }
+         ],
+         "semantic_vector": [
+            Infinity,
+            NaN,
+            Infinity,
+            -19592382.0
+         ],
+         "keywords": [
+            "dolore Excepteur commodo minim laboris",
+            "incididunt in veniam mollit dolor",
+            "Excepteur ex id dolore",
+            "proident"
+         ],
+         "entities": [
+            "incididunt enim officia aliquip",
+            "ex aliquip aliqua Lorem tempor",
+            "esse",
+            "est",
+            "exercitation commodo elit consequat nostrud"
+         ],
+         "themes": [
+            "dolor proident",
+            "aliqua id mollit",
+            "Ut occaecat",
+            "sunt"
+         ],
+         "class_": [
+            "nisi ut qui Duis aliqua",
+            "magna amet non eiusmod sit",
+            "id amet ex laboris velit"
+         ],
+         "id": 329809517904279003
+      },
+      {
+         "article_id": 1155385581,
+         "text": "nulla aliquip culpa esse",
+         "title": "in mollit in sint Excepteur",
+         "date": "exercitation labore deserunt fugiat",
+         "lang": "adipisicing culpa dolore ad anim",
+         "locations": [
+            {
+               "lat": -72732864.0,
+               "lon": -95092856.0
+            },
+            {
+               "lat": 20411988.0,
+               "lon": 38931208.0
+            },
+            {
+               "lat": -45559204.0,
+               "lon": Infinity
+            },
+            {
+               "lat": Infinity,
+               "lon": -21443630.0
+            },
+            {
+               "lat": Infinity,
+               "lon": NaN
+            }
+         ],
+         "semantic_vector": [
+            61604712.0,
+            68855288.0,
+            -96206992.0,
+            Infinity,
+            NaN
+         ],
+         "keywords": [
+            "Duis irure velit",
+            "ipsum",
+            "in",
+            "consequat et amet enim nisi",
+            "culpa mollit"
+         ],
+         "entities": [
+            "minim laboris enim",
+            "exercitation esse aute sed adipisicing"
+         ],
+         "themes": [
+            "ipsum occaecat exercitation",
+            "eu",
+            "velit pariatur veniam dolor in",
+            "esse in occaecat irure",
+            "non proident"
+         ],
+         "class_": [
+            "laboris consequat labore eiusmod"
+         ],
+         "id": 331008536249594074
+      },
+      {
+         "article_id": 1336066945,
+         "text": "non irure elit et",
+         "title": "non nostrud fugiat qui deserunt",
+         "date": "labore cupidatat Lorem culpa",
+         "lang": "incididunt aute aliqua",
+         "locations": [
+            {
+               "lat": NaN,
+               "lon": -Infinity
+            },
+            {
+               "lat": 49415620.0,
+               "lon": -68934448.0
+            },
+            {
+               "lat": Infinity,
+               "lon": 36039792.0
+            },
+            {
+               "lat": 58605472.0,
+               "lon": -Infinity
+            }
+         ],
+         "semantic_vector": [
+            Infinity,
+            NaN,
+            Infinity,
+            -19592382.0
+         ],
+         "keywords": [
+            "dolore Excepteur commodo minim laboris",
+            "incididunt in veniam mollit dolor",
+            "Excepteur ex id dolore",
+            "proident"
+         ],
+         "entities": [
+            "incididunt enim officia aliquip",
+            "ex aliquip aliqua Lorem tempor",
+            "esse",
+            "est",
+            "exercitation commodo elit consequat nostrud"
+         ],
+         "themes": [
+            "dolor proident",
+            "aliqua id mollit",
+            "Ut occaecat",
+            "sunt"
+         ],
+         "class_": [
+            "nisi ut qui Duis aliqua",
+            "magna amet non eiusmod sit",
+            "id amet ex laboris velit"
+         ],
+         "id": 322066306089378023
+      },
+      {
+         "article_id": 1155385581,
+         "text": "nulla aliquip culpa esse",
+         "title": "in mollit in sint Excepteur",
+         "date": "exercitation labore deserunt fugiat",
+         "lang": "adipisicing culpa dolore ad anim",
+         "locations": [
+            {
+               "lat": -72732864.0,
+               "lon": -95092856.0
+            },
+            {
+               "lat": 20411988.0,
+               "lon": 38931208.0
+            },
+            {
+               "lat": -45559204.0,
+               "lon": Infinity
+            },
+            {
+               "lat": Infinity,
+               "lon": -21443630.0
+            },
+            {
+               "lat": Infinity,
+               "lon": NaN
+            }
+         ],
+         "semantic_vector": [
+            61604712.0,
+            68855288.0,
+            -96206992.0,
+            Infinity,
+            NaN
+         ],
+         "keywords": [
+            "Duis irure velit",
+            "ipsum",
+            "in",
+            "consequat et amet enim nisi",
+            "culpa mollit"
+         ],
+         "entities": [
+            "minim laboris enim",
+            "exercitation esse aute sed adipisicing"
+         ],
+         "themes": [
+            "ipsum occaecat exercitation",
+            "eu",
+            "velit pariatur veniam dolor in",
+            "esse in occaecat irure",
+            "non proident"
+         ],
+         "class_": [
+            "laboris consequat labore eiusmod"
+         ],
+         "id": 121214713203705006
+      },
+      {
+         "article_id": 1336066945,
+         "text": "non irure elit et",
+         "title": "non nostrud fugiat qui deserunt",
+         "date": "labore cupidatat Lorem culpa",
+         "lang": "incididunt aute aliqua",
+         "locations": [
+            {
+               "lat": NaN,
+               "lon": -Infinity
+            },
+            {
+               "lat": 49415620.0,
+               "lon": -68934448.0
+            },
+            {
+               "lat": Infinity,
+               "lon": 36039792.0
+            },
+            {
+               "lat": 58605472.0,
+               "lon": -Infinity
+            }
+         ],
+         "semantic_vector": [
+            Infinity,
+            NaN,
+            Infinity,
+            -19592382.0
+         ],
+         "keywords": [
+            "dolore Excepteur commodo minim laboris",
+            "incididunt in veniam mollit dolor",
+            "Excepteur ex id dolore",
+            "proident"
+         ],
+         "entities": [
+            "incididunt enim officia aliquip",
+            "ex aliquip aliqua Lorem tempor",
+            "esse",
+            "est",
+            "exercitation commodo elit consequat nostrud"
+         ],
+         "themes": [
+            "dolor proident",
+            "aliqua id mollit",
+            "Ut occaecat",
+            "sunt"
+         ],
+         "class_": [
+            "nisi ut qui Duis aliqua",
+            "magna amet non eiusmod sit",
+            "id amet ex laboris velit"
+         ],
+         "id": 160655062452165633
+      },
+      {
+         "article_id": 1010,
+         "text": "Sample text",
+         "title": "Sample title",
+         "date": "1970-02-03T20:14:05.255549665Z",
+         "lang": "en",
+         "locations": [
+            {
+               "lat": 1.0,
+               "lon": 1.0
+            },
+            {
+               "lat": 2.0,
+               "lon": 2.0
+            },
+            {
+               "lat": 3.0,
+               "lon": 3.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            }
+         ],
+         "semantic_vector": [
+            0.10000000149011612,
+            0.20000000298023224
+         ],
+         "keywords": [
+            "sample",
+            "test"
+         ],
+         "entities": [
+            "entity1",
+            "entity2"
+         ],
+         "themes": [
+            "theme1",
+            "theme2"
+         ],
+         "class_": [
+            "class1",
+            "class2"
+         ],
+         "id": 262960480919315677
+      },
+      {
+         "article_id": -1010,
+         "text": "Sample text",
+         "title": "Sample title",
+         "date": "1970-02-03T20:14:05.255549665Z",
+         "lang": "en",
+         "locations": [
+            {
+               "lat": 1.0,
+               "lon": 1.0
+            },
+            {
+               "lat": 2.0,
+               "lon": 2.0
+            },
+            {
+               "lat": 3.0,
+               "lon": 3.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            }
+         ],
+         "semantic_vector": [
+            0.10000000149011612,
+            0.20000000298023224
+         ],
+         "keywords": [
+            "sample",
+            "test"
+         ],
+         "entities": [
+            "entity1",
+            "entity2"
+         ],
+         "themes": [
+            "theme1",
+            "theme2"
+         ],
+         "class_": [
+            "class1",
+            "class2"
+         ],
+         "id": 287962355611880685
+      },
+      {
+         "article_id": 1010,
+         "text": "Sample text",
+         "title": "Sample title",
+         "date": "1970-02-03T20:14:05.255549665Z",
+         "lang": "en",
+         "locations": [
+            {
+               "lat": 1.0,
+               "lon": 1.0
+            },
+            {
+               "lat": 2.0,
+               "lon": 2.0
+            },
+            {
+               "lat": 3.0,
+               "lon": 3.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            }
+         ],
+         "semantic_vector": [
+            0.10000000149011612,
+            0.20000000298023224
+         ],
+         "keywords": [
+            "sample",
+            "test"
+         ],
+         "entities": [
+            "entity1",
+            "entity2"
+         ],
+         "themes": [
+            "theme1",
+            "theme2"
+         ],
+         "class_": [
+            "class1",
+            "class2"
+         ],
+         "id": 272274111255616735
+      },
+      {
+         "article_id": -1010,
+         "text": "Sample text",
+         "title": "Sample title",
+         "date": "1970-02-03T20:14:05.255549665Z",
+         "lang": "en",
+         "locations": [
+            {
+               "lat": 1.0,
+               "lon": 1.0
+            },
+            {
+               "lat": 2.0,
+               "lon": 2.0
+            },
+            {
+               "lat": 3.0,
+               "lon": 3.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            }
+         ],
+         "semantic_vector": [
+            0.10000000149011612,
+            0.20000000298023224
+         ],
+         "keywords": [
+            "sample",
+            "test"
+         ],
+         "entities": [
+            "entity1",
+            "entity2"
+         ],
+         "themes": [
+            "theme1",
+            "theme2"
+         ],
+         "class_": [
+            "class1",
+            "class2"
+         ],
+         "id": 217504385324389518
+      },
+      {
+         "article_id": 1010,
+         "text": "Sample text",
+         "title": "Sample title",
+         "date": "1970-02-03T20:14:05.255549665Z",
+         "lang": "en",
+         "locations": [
+            {
+               "lat": 1.0,
+               "lon": 1.0
+            },
+            {
+               "lat": 2.0,
+               "lon": 2.0
+            },
+            {
+               "lat": 3.0,
+               "lon": 3.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            }
+         ],
+         "semantic_vector": [
+            0.10000000149011612,
+            0.20000000298023224
+         ],
+         "keywords": [
+            "sample",
+            "test"
+         ],
+         "entities": [
+            "entity1",
+            "entity2"
+         ],
+         "themes": [
+            "theme1",
+            "theme2"
+         ],
+         "class_": [
+            "class1",
+            "class2"
+         ],
+         "id": 792446784670767620
+      },
+      {
+         "article_id": -1010,
+         "text": "Sample text",
+         "title": "Sample title",
+         "date": "1970-02-03T20:14:05.255549665Z",
+         "lang": "en",
+         "locations": [
+            {
+               "lat": 1.0,
+               "lon": 1.0
+            },
+            {
+               "lat": 2.0,
+               "lon": 2.0
+            },
+            {
+               "lat": 3.0,
+               "lon": 3.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            },
+            {
+               "lat": 4.0,
+               "lon": 4.0
+            }
+         ],
+         "semantic_vector": [
+            0.10000000149011612,
+            0.20000000298023224
+         ],
+         "keywords": [
+            "sample",
+            "test"
+         ],
+         "entities": [
+            "entity1",
+            "entity2"
+         ],
+         "themes": [
+            "theme1",
+            "theme2"
+         ],
+         "class_": [
+            "class1",
+            "class2"
+         ],
+         "id": 183565463178181310
+      }
+   ]
+}

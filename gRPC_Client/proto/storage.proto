@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+package storage;
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/wrappers.proto";
+
+service DocumentService {
+    rpc SaveDocuments(InsertRequest) returns (InsertResponse) {}
+}
+
+message Location {
+    float lat = 1;
+    float lon = 2;
+}
+
+message Document {
+    int32 article_id = 1;
+    string text = 2;
+    string title = 3;
+    string date = 4;
+    string lang = 5;
+    repeated Location locations = 6;
+    repeated float semantic_vector = 7;
+    repeated string keywords = 8;
+    repeated string entities = 9;
+    repeated string themes = 10;
+    repeated string class_ = 11;
+}
+
+message InsertRequest {
+    repeated Document documents = 1;
+}
+
+message InsertResponse {
+    bool success = 1;
+    string message = 2;
+}

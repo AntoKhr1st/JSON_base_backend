@@ -1,3 +1,5 @@
+import os
+
 import grpc
 
 
@@ -5,10 +7,9 @@ import grpc
 import gen.storage_pb2
 import gen.storage_pb2_grpc
 
-
 def upload_documets(documents):
     # Initialize a channel
-    channel = grpc.insecure_channel('localhost:50051')
+    channel = grpc.insecure_channel(os.getenv("SERVER_URL"))
 
     # Create a stub (client)
     stub = gen.storage_pb2_grpc.DocumentServiceStub(channel)

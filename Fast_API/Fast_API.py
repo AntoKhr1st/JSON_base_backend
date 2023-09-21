@@ -3,7 +3,20 @@ from fastapi.responses import JSONResponse
 import uvicorn
 from pysondb import db
 
-app = FastAPI()
+description = """
+JSON database API helps you with documents.
+
+"""
+
+app = FastAPI(
+    title="JSON database",
+    description=description,
+    summary="This app can find documents with certain *article_id* in database",
+    contact={
+        "name": "Anton Khr",
+        "email": "antokhrist@gmail.com",
+    },
+)
 
 storage = db.getDb('/app/shared/documents.json')  # Инициализация базы данных pysondb
 
@@ -12,7 +25,10 @@ storage = db.getDb('/app/shared/documents.json')  # Инициализация �
 
 
 @app.get("/documents/")
-async def get_document(a_ids: list[int] = Query()):
+async def get_document(a_ids: list[int] = Query(
+            title="article_id",
+            description="List of article_ids of documents u are looking for",
+        )):
     result = []
     for a_id in a_ids:
         document = storage.getByQuery({"article_id": a_id})
